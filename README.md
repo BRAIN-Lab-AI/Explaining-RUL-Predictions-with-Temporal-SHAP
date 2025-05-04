@@ -10,7 +10,7 @@ This project tackles the challenge of explaining deep‑learning Remaining Usefu
 - **Affiliations:** KFUPM
 
 ### Project Documents
-- **Presentation:** [Project Presentation](/presentation.pptx)
+- **Presentation:** [Project Presentation](/Interpreting%20RUL%20Predictions%20Using%20Temporal%20SHAP%20Slides.pptx)
 - **Report:** [Project Report](/Interpretable%20Remaining%20Useful%20Life%20(RUL)%20Predictions%20Using%20Temporal%20SHAP.pdf)
 
 ### Reference Papers
