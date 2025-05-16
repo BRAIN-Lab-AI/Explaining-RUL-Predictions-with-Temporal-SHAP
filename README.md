@@ -11,7 +11,7 @@ This project tackles the challenge of explaining deep‑learning Remaining Usefu
 
 ### Project Documents
 - **Presentation:** [Project Presentation](/Interpreting%20RUL%20Predictions%20Using%20Temporal%20SHAP%20Slides.pptx)
-- **Report:** [Project Report](/Interpretable%20Remaining%20Useful%20Life%20(RUL)%20Predictions%20Using%20Temporal%20SHAP.pdf)
+- **Report:** [Project Report](/Explaining%20Remaining%20Useful%20Life%20Predictions%20Using%20Temporal%20SHAP.pdf)
 
 ### Reference Papers
 - Peringal A., Mohiuddin M. B., Hassan A. (2024) Remaining Useful Life Prediction for Aircraft Engines Using LSTM
